@@ -16,7 +16,7 @@ Use Python to solve maths questions!
 ![This is the answer 2](https://github.com/teochenglim/maths/blob/master/Maths2.png)
 
 ### Question 3 
-![This is the question 3](https://github.com/teochenglim/maths/blob/master/Maths3Q.jpg)
+![This is the question 3](https://github.com/teochenglim/maths/blob/master/Maths3Q.jpeg)
 
 ### Answer 3
 ![This is the answer 3](https://github.com/teochenglim/maths/blob/master/Maths3.png)
