@@ -1,7 +1,8 @@
 # maths
 
 ## Why?
-Use Python to solve maths questions!
+Use Python to solve Singapore primary school maths questions!
+Why? Because many parents are struggle too with an answer
 
 ### Question 1 
 ![This is the question 1](https://github.com/teochenglim/maths/blob/master/Maths1Q.jpg)
@@ -20,3 +21,9 @@ Use Python to solve maths questions!
 
 ### Answer 3
 ![This is the answer 3](https://github.com/teochenglim/maths/blob/master/Maths3.png)
+
+### Question 4
+![This is the question 4](https://github.com/teochenglim/maths/blob/master/Maths4Q.jpeg)
+
+### Answer 4
+![This is the answer 4](https://github.com/teochenglim/maths/blob/master/Maths4.png)
